@@ -33,40 +33,13 @@
 - Linux
 - VS Code
 
----
-
-
----
-
-## 📊 GitHub 数据统计
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FosterXu0723&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FosterXu0723&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## 🔥 活跃贡献图
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FosterXu0723&theme=tokyo-night" />
-</p>
-
----
-
 
 ---
 
 ## 📫 联系方式
 
 - 📧 邮箱：your@email.com
-- 🌐 博客：你的博客地址
-- 💼 LinkedIn：你的主页
 
 ---
 
-⭐ **质量不是测试出来的，而是设计出来的。**
+⭐ **测试有道，品质无疆**
