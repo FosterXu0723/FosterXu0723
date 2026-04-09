@@ -8,32 +8,20 @@
 
 ## 🧑‍💻 关于我
 
-- 🔍 多年软件测试经验（Web / App / API）
-- 🤖 专注自动化测试与质量工程（Quality Engineering）
-- ⚙️ 擅长测试体系建设与测试框架设计
+- 🔍 10年+软件测试经验（Web / App / 小程序 / API）
+- 🤖 专注接口和UI自动化测试
+- ⚙️ 擅长测试体系建设，有从0到1搭建测试团队经验
+- 📈 致力于通过测试左移和右移以及敏捷来提升测试效率与质量
 - 🌱 正在学习 AI Agent 与大模型测试
-- 📈 致力于提升研发效率与软件质量
 
 ---
 
 ## 🛠 技术栈
 
 ### 🧪 测试技术
-- 自动化测试（Selenium / Playwright/ unittest）
-- 接口自动化测试框架设计
-- 性能测试
-
-### 💻 编程语言
-- Python
-- Java
-
-### ⚙️ 工程与工具
-- Git / GitHub
-- Jenkins
-- Linux
-- VS Code
-
-
+- 接口自动化测试(python+unittest+git+jenkins+钉钉机器人)
+- UI自动化测试(python+selenium+unittest)
+- 性能测试(LR/jmeter+Grafana+Prometheus)
 ---
 
 ## 📫 联系方式
