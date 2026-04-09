@@ -19,11 +19,9 @@
 ## 🛠 技术栈
 
 ### 🧪 测试技术
-- 自动化测试（Selenium / Playwright）
-- 接口测试（Postman / unittest）
-- 测试框架设计
+- 自动化测试（Selenium / Playwright/ unittest）
+- 接口自动化测试框架设计
 - 性能测试
-- 持续集成测试（CI/CD）
 
 ### 💻 编程语言
 - Python
@@ -37,13 +35,6 @@
 
 ---
 
-## 🚀 项目展示
-
-| 项目 | 说明 |
-|---|---|
-| 🔧 自动化测试框架 | 基于 Python 的 UI + API 自动化框架 |
-| 🤖 AI 测试实验室 | 大模型测试与 Prompt 评估实践 |
-| 📊 测试平台 | 提升测试效率的内部工具 |
 
 ---
 
@@ -51,9 +42,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=FosterXu0723&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FosterXu0723&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -62,17 +53,11 @@
 ## 🔥 活跃贡献图
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FosterXu0723&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🧠 当前学习方向
-
-- AI Agent 架构
-- 大模型测试（LLM Evaluation）
-- Prompt Engineering
-- TestOps / DevOps
 
 ---
 
