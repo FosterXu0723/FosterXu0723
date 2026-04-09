@@ -27,7 +27,8 @@
 ## 📫 联系方式
 
 - WeChat
-  ![9ff65fd7906862eee152bb998859e87a](https://github.com/user-attachments/assets/535c5ad2-b71c-4374-8765-1bfbe2a4be33)
+<img width="402" height="456" alt="image" src="https://github.com/user-attachments/assets/f0010960-90f6-49aa-809d-d17d76d3447e" />
+
 
 
 ---
