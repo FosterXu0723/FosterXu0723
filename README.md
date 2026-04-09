@@ -26,7 +26,9 @@
 
 ## 📫 联系方式
 
-- 📧 邮箱：your@email.com
+- WeChat
+  ![9ff65fd7906862eee152bb998859e87a](https://github.com/user-attachments/assets/535c5ad2-b71c-4374-8765-1bfbe2a4be33)
+
 
 ---
 
